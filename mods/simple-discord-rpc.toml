@@ -1,0 +1,13 @@
+name = "Simple Discord RPC"
+filename = "simple-rpc-1.17-2.2.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/fabric-1.17-2.2.2/simple-rpc-1.17-2.2.2-fabric.jar"
+hash-format = "sha512"
+hash = "562afeb55dc2687b90865a54092cdf9545eb22ed40bb49b44c534650de9f67acb586d473a4e14e72e422b05dbe82a3b546590319716fcec6b103132587c38522"
+
+[update]
+[update.modrinth]
+mod-id = "ObXSoyrn"
+version = "uK2BblEc"

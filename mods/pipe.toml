@@ -1,0 +1,14 @@
+name = "Pipe"
+filename = "pipe-1.17-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3433/588/pipe-1.17-1.4.0.jar"
+hash-format = "murmur2"
+hash = "414435400"
+
+[update]
+[update.curseforge]
+file-id = 3433588
+project-id = 441787
+release-channel = "beta"

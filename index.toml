@@ -1,0 +1,156 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/adorn.toml"
+hash = "0f8f135e5ded3fa1c6016107e5cd81f7e9e796d8352aececdca45ee16970262f"
+metafile = true
+
+[[files]]
+file = "mods/aether-reborn.toml"
+hash = "b7257a10d22a4ea999ba872e25c774777d1f4d32182a7ab23eb725abafe3f1ba"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "709d06702d9c3ffd0643843d9945a75c48880921b5a9e2384a5c2be809fda4cd"
+metafile = true
+
+[[files]]
+file = "mods/bclib.toml"
+hash = "e3ac15b1511fcd2c9feccaf5f856f562932cec7b37cbb644efbea4f20f3d9344"
+metafile = true
+
+[[files]]
+file = "mods/betterend.toml"
+hash = "d35c6e3d1e8debd473a3571102236616b197e84efe27e0d8dd06fef67a7dcefc"
+metafile = true
+
+[[files]]
+file = "mods/betternether.toml"
+hash = "1cc3f8775fe722f674c09d2a3dea91a6792e11c30315141bee5021d0d75fb4ec"
+metafile = true
+
+[[files]]
+file = "mods/campanion.toml"
+hash = "2233ec5dac1eba11ff15d781ae7438db2b0617ffa20e4902bb1f65c916a6fe57"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
+metafile = true
+
+[[files]]
+file = "mods/ebe.toml"
+hash = "5e03c4a63495a01a572a079d93eb5e6cad12726b0c572ddaba1111f8be72a8b2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "c6db1128e617baa879273db1a3152e1b30d4e4da62a64a7fa2bd62285301b408"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "9dddeb714e7d413746bafd35c5b58ebec4c30d8934ff3763dd4c00e5ff359fa6"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "148a62eb8129c44bd2b1c4df997e1d2b1007e44f78fed26aebea603240551620"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.toml"
+hash = "909106cdfb00df9b25f0e2904f9e90dced3566b7a29ed58d60f35637f42681f1"
+metafile = true
+
+[[files]]
+file = "mods/happiness-is-a-warm-gun.toml"
+hash = "c20ff9ab70d135acff0958c30b8eed03492f3dc9059a2f461fbffbfd96be2557"
+metafile = true
+
+[[files]]
+file = "mods/hydrogen.toml"
+hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+metafile = true
+
+[[files]]
+file = "mods/lazy-language-loader.toml"
+hash = "ffd3c8dd0e6e3a0a0526d91775515d1447c5d9661290319b40094f9f9d193607"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lib.toml"
+hash = "282da11d9aafdfb7d002650a0d4e2b4dfcc39f43a9815d323fe3f021003d2b35"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
+metafile = true
+
+[[files]]
+file = "mods/neutrino.toml"
+hash = "c0efa5d4b947c4e1b454be9be531861411d032a8ca9628177490e63f27c4d7ef"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "89cbaa6645cbe11faa59add7745d1c0cd81a8af8ba9b55f3b04434e4b660b88e"
+metafile = true
+
+[[files]]
+file = "mods/pipe.toml"
+hash = "5fc90b692397e0484f47bd1f0e6503a771872b6372099c9b397a624ec45974de"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "523287ccdaca7718dbbc48afb4068484c1bb84d7f101fb0de94254363cd62b99"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.toml"
+hash = "438eb8177191cd4aa76ebc81ba0b9bb6291a5fb109ac8dbbc3a4b514ccfc25a8"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.toml"
+hash = "d02b56170076cc508fe31ff0e4d36b4576cb0ae7cf2c008b273cd64c34787408"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "d815ffd6112df95b8448fb22732937595d2df99bbde9160a31e58944640686ca"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "cb9176439af93f4215bc9eb96ddcfa02566ea41aa5c1b6e230a66bfd23299255"
+metafile = true
+
+[[files]]
+file = "mods/terra.toml"
+hash = "06f0eb6c464ec6115bc4def8ff4f4c0ef7394ac89866dc1cc489aad54b9a7218"
+metafile = true
+
+[[files]]
+file = "mods/vanillaenhanced.toml"
+hash = "ae758cb163fb8ca9ac59fea842477e43126baa411bccd0fab9de142124068811"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-fabric.toml"
+hash = "c2c6578e86d01e1caa3ab10612f1120fdf3ec99a178ab0f9c6ef0a629b88885a"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Vanilla Enhanced"
+filename = "vanillaenhanced-1.8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y1ImNftg/versions/1.8.1/vanillaenhanced-1.8.1.jar"
+hash-format = "sha512"
+hash = "c054ca740a959f315ed96478c01eac468e88d26644a134f08e000028a1bd8d15122537577456b04cbf5c1fc1d9377bb2d1c228dbc8ec14681b47ed01f87c96d0"
+
+[update]
+[update.modrinth]
+mod-id = "Y1ImNftg"
+version = "38Zdwdeh"
