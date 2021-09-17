@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/dawn.toml"
-hash = "e97a52c3d3abbb1c0a5c30fd0f54ea3027c336e331bbd0b37a3ebe701310410f"
+hash = "15dd94aa36c0948ef16a093c7426ca72ec3eede40d28679c8ef7293e1266a76d"
 metafile = true
 
 [[files]]
