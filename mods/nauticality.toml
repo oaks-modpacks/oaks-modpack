@@ -1,0 +1,13 @@
+name = "Nauticality"
+filename = "nauticality-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sTtvVoxI/versions/0.1.2/nauticality-0.1.2.jar"
+hash-format = "sha512"
+hash = "f22b03893d359669c559fc6b8e47d8113dcdbdcc5e73d25224cb4fac3f0b065fb1688f3e6989986d4968b0d422b55de7d637bdae85459dda8bd61e5bd4322d80"
+
+[update]
+[update.modrinth]
+mod-id = "sTtvVoxI"
+version = "7zLXK8V2"

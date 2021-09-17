@@ -56,6 +56,16 @@ hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
 metafile = true
 
 [[files]]
+file = "mods/croptopia-fabric.toml"
+hash = "c3caba43412cbefca07a2d30beb03b33165648d77f78b0a7d5e2ceff0aa2333b"
+metafile = true
+
+[[files]]
+file = "mods/dawn.toml"
+hash = "e97a52c3d3abbb1c0a5c30fd0f54ea3027c336e331bbd0b37a3ebe701310410f"
+metafile = true
+
+[[files]]
 file = "mods/ebe.toml"
 hash = "5e03c4a63495a01a572a079d93eb5e6cad12726b0c572ddaba1111f8be72a8b2"
 metafile = true
@@ -96,6 +106,11 @@ hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
 metafile = true
 
 [[files]]
+file = "mods/industrial-revolution.toml"
+hash = "c10a4fd6a52a3718ce0e6f88a9febd8f331eee792bf3a7d0836e1cb14b857c29"
+metafile = true
+
+[[files]]
 file = "mods/lazy-language-loader.toml"
 hash = "ffd3c8dd0e6e3a0a0526d91775515d1447c5d9661290319b40094f9f9d193607"
 metafile = true
@@ -121,8 +136,18 @@ hash = "9d6cfd94ce19a1909c93c5a51302828c28a3db8511433d9841dcb3173f37f1bb"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.toml"
+hash = "be513eb0ff08162854efc82850f51bc4428e7c04a9285a0e7abf6bf3e49299f5"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "9e6184ce1e6884c3c422e82cdd269dff7e89d0c7093d5b61c96d7b4e2b0e2be5"
+metafile = true
+
+[[files]]
+file = "mods/nauticality.toml"
+hash = "a3dbb9ce0b35e9f253e074c2bf5d709dc2f4f35dd7755d07a71acc42b1167d4d"
 metafile = true
 
 [[files]]
