@@ -36,6 +36,21 @@ hash = "2233ec5dac1eba11ff15d781ae7438db2b0617ffa20e4902bb1f65c916a6fe57"
 metafile = true
 
 [[files]]
+file = "mods/charm.toml"
+hash = "802712413b38d1cadc18660bc5c219d4c2446f1fa676ffbffc7b0143a800fc41"
+metafile = true
+
+[[files]]
+file = "mods/charmonium.toml"
+hash = "909a8a4b39ed8a089c95c8fc448d78bcec05b04f6839a96f37e0085c53f68afd"
+metafile = true
+
+[[files]]
+file = "mods/cloth-api.toml"
+hash = "6f9c3f657c6e3ef033d0e778096004ba4554b0db609dc80338590b3970e8daa3"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
 metafile = true
@@ -101,6 +116,16 @@ hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
 metafile = true
 
 [[files]]
+file = "mods/mo-structures.toml"
+hash = "9d6cfd94ce19a1909c93c5a51302828c28a3db8511433d9841dcb3173f37f1bb"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "9e6184ce1e6884c3c422e82cdd269dff7e89d0c7093d5b61c96d7b4e2b0e2be5"
+metafile = true
+
+[[files]]
 file = "mods/neutrino.toml"
 hash = "c0efa5d4b947c4e1b454be9be531861411d032a8ca9628177490e63f27c4d7ef"
 metafile = true
@@ -113,6 +138,16 @@ metafile = true
 [[files]]
 file = "mods/pipe.toml"
 hash = "5fc90b692397e0484f47bd1f0e6503a771872b6372099c9b397a624ec45974de"
+metafile = true
+
+[[files]]
+file = "mods/promenade.toml"
+hash = "15c8514359b2800d1442f260846505209125998f3f199d9989a982270d861157"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.toml"
+hash = "8aafb5757b66f206a77c234165566d19d5e8bf6062c234f39588867ba22fefb0"
 metafile = true
 
 [[files]]
