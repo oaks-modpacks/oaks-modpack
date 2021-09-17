@@ -4,10 +4,6 @@ hash-format = "sha256"
 file = "mods/adorn.toml"
 hash = "0f8f135e5ded3fa1c6016107e5cd81f7e9e796d8352aececdca45ee16970262f"
 metafile = true
-[[files]]
-file = "mods/mcmt-fabric.toml"
-hash = "1491F44C6B8ADC0939580E2AC906650331798C8CE296701C3DEEC2EA4DED519C"
-metafile = true
 
 [[files]]
 file = "mods/aether-reborn.toml"
