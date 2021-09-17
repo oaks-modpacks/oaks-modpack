@@ -1,0 +1,8 @@
+name = "MCMT-Fabric"
+filename = "mcmtfabric-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/himekifee/MCMTFabric/releases/download/v1.0.4/mcmtfabric-1.0.4.jar"
+hash-format = "sha256"
+hash = "09AE2A1765643197401ABAA1A9B3AE4E6301DD826444A4015AB30A8596E140D7"

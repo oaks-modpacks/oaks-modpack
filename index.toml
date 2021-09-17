@@ -11,6 +11,11 @@ hash = "b7257a10d22a4ea999ba872e25c774777d1f4d32182a7ab23eb725abafe3f1ba"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.toml"
+hash = "bfdd1dd92e2ec9f9dc32a92f86c215f7bc6d4753e3a96320b55819b15f045ab2"
+metafile = true
+
+[[files]]
 file = "mods/architectury-fabric.toml"
 hash = "709d06702d9c3ffd0643843d9945a75c48880921b5a9e2384a5c2be809fda4cd"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/campanion.toml"
 hash = "2233ec5dac1eba11ff15d781ae7438db2b0617ffa20e4902bb1f65c916a6fe57"
+metafile = true
+
+[[files]]
+file = "mods/can-i-mine-this-block.toml"
+hash = "b7c68b7e98480cf56b4a87379e76a563d31efcdde9de6e88b3efe5dab54442f1"
 metafile = true
 
 [[files]]
@@ -66,6 +76,11 @@ hash = "15dd94aa36c0948ef16a093c7426ca72ec3eede40d28679c8ef7293e1266a76d"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.toml"
+hash = "7e52a2705568174fbb5bdf107c0cceef1a0e13aa0ce0a5116b45c72d5c11b568"
+metafile = true
+
+[[files]]
 file = "mods/ebe.toml"
 hash = "5e03c4a63495a01a572a079d93eb5e6cad12726b0c572ddaba1111f8be72a8b2"
 metafile = true
@@ -78,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "9dddeb714e7d413746bafd35c5b58ebec4c30d8934ff3763dd4c00e5ff359fa6"
+metafile = true
+
+[[files]]
+file = "mods/fading.toml"
+hash = "52bee69c660ffc56f07fb8767a5ca714b4c2bfb4cea8aa7cf7f3d7067b7ed1d2"
 metafile = true
 
 [[files]]
@@ -111,6 +131,11 @@ hash = "c10a4fd6a52a3718ce0e6f88a9febd8f331eee792bf3a7d0836e1cb14b857c29"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "374c4eb4d5733928e6a3aed28625bb28f6e2bcb1f17a2077577ab555e2b37c94"
+metafile = true
+
+[[files]]
 file = "mods/lazy-language-loader.toml"
 hash = "ffd3c8dd0e6e3a0a0526d91775515d1447c5d9661290319b40094f9f9d193607"
 metafile = true
@@ -121,8 +146,18 @@ hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
 metafile = true
 
 [[files]]
+file = "mods/led.toml"
+hash = "e3668c5b3638c4043d43bc4f7120a1c95f05db63f1f717e4b724643c8a92cd52"
+metafile = true
+
+[[files]]
 file = "mods/lib.toml"
 hash = "282da11d9aafdfb7d002650a0d4e2b4dfcc39f43a9815d323fe3f021003d2b35"
+metafile = true
+
+[[files]]
+file = "mods/lifts.toml"
+hash = "0f87dd990236cc63de1df4175f93cefbe7a953233fe2aa1be574458eed40ae02"
 metafile = true
 
 [[files]]
@@ -171,6 +206,11 @@ hash = "15c8514359b2800d1442f260846505209125998f3f199d9989a982270d861157"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.toml"
+hash = "73e555a35df10e51c68908550a52e465b3ab5df48a6aa04c63e04fd53f811d72"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.toml"
 hash = "8aafb5757b66f206a77c234165566d19d5e8bf6062c234f39588867ba22fefb0"
 metafile = true
@@ -208,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/vanillaenhanced.toml"
 hash = "ae758cb163fb8ca9ac59fea842477e43126baa411bccd0fab9de142124068811"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "fc31486176a5d4704042d75a81e5d0e4672cbe4c8603c7629a9a87b723676575"
 metafile = true
 
 [[files]]

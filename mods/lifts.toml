@@ -1,0 +1,13 @@
+name = "Lifts"
+filename = "lifts-1.2-BETA+1.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LMEONxlN/versions/1.2-BETA+1.17/lifts-1.2-BETA+1.17.jar"
+hash-format = "sha512"
+hash = "2bbed2020f48228e9a79e7255981cfe033a7ef34ebc294369f5a9c23f204d63321cb3eaee493b84a62bcd935c44bb51b8f27364f8d6f1dc7a4be70e6a68d4e7c"
+
+[update]
+[update.modrinth]
+mod-id = "LMEONxlN"
+version = "gCIFdMfz"
