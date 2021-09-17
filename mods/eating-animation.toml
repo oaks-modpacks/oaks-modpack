@@ -1,0 +1,13 @@
+name = "Eating Animation [Fabric]"
+filename = "eating-animation-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com//data/rUgZvGzi/versions/1.1/eating-animation-1.1.jar"
+hash-format = "sha512"
+hash = "00072e9cd704f30b9cd0db0f1fa3d50c36d3f693dd31ef8627c897214089b1b063f5d5fcfca6fab423fe782619ab1369efa8e6bf8cce563d543f19bd80b9e6d7"
+
+[update]
+[update.modrinth]
+mod-id = "rUgZvGzi"
+version = "hL3lb2hV"

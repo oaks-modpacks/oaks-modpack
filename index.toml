@@ -81,8 +81,13 @@ hash = "7e52a2705568174fbb5bdf107c0cceef1a0e13aa0ce0a5116b45c72d5c11b568"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.toml"
+hash = "7fdaed6a6bfd867d6c089dc20af2e52f72ceff7dea7f89367c0147a351e57db5"
+metafile = true
+
+[[files]]
 file = "mods/ebe.toml"
-hash = "5e03c4a63495a01a572a079d93eb5e6cad12726b0c572ddaba1111f8be72a8b2"
+hash = "72a4338b738c76967bd08f1aedb2f7760afa0de1dcdad352c9604363abe1a840"
 metafile = true
 
 [[files]]
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.toml"
 hash = "89cbaa6645cbe11faa59add7745d1c0cd81a8af8ba9b55f3b04434e4b660b88e"
+metafile = true
+
+[[files]]
+file = "mods/paintings-fabric-edition.toml"
+hash = "6e48e94c7409bfb5ec44e7b43dba715838eb5ac235394446f4d13e6b8503251b"
 metafile = true
 
 [[files]]
