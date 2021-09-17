@@ -236,6 +236,11 @@ hash = "438eb8177191cd4aa76ebc81ba0b9bb6291a5fb109ac8dbbc3a4b514ccfc25a8"
 metafile = true
 
 [[files]]
+file = "mods/skin-layers-3d.toml"
+hash = "d100d9d3b8e8a2f157e34910152ca3ae5cffccbd544a9deae6301dd44b640266"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot.toml"
 hash = "d02b56170076cc508fe31ff0e4d36b4576cb0ae7cf2c008b273cd64c34787408"
 metafile = true
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/vanillaenhanced.toml"
 hash = "ae758cb163fb8ca9ac59fea842477e43126baa411bccd0fab9de142124068811"
+metafile = true
+
+[[files]]
+file = "mods/waveycapes.toml"
+hash = "23d4d520988adb922c39c30d5ecae2292b8ec095220f36a5a9d06e3014e76196"
 metafile = true
 
 [[files]]
